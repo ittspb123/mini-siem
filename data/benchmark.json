@@ -1,0 +1,15 @@
+{
+  "events": 933,
+  "alerts": 3,
+  "load_seconds": 0.0137,
+  "detect_seconds": 0.0238,
+  "total_seconds": 0.0375,
+  "events_per_sec_load": 68296,
+  "events_per_sec_total": 24873,
+  "labels": 3,
+  "true_positives": 3,
+  "false_positives": 0,
+  "missed": 0,
+  "recall": 1.0,
+  "precision": 1.0
+}
